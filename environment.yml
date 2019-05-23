@@ -1,0 +1,10 @@
+name: interactive_clusters
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - scipy
+  - bokeh
+  - colorcet
